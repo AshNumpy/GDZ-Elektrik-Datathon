@@ -1,8 +1,8 @@
 <h1 align="center">Proje Raporu</h1>
+<hr>
+<img src='./Images/gdz-logo.jpg' style="float: left;margin:5px 20px 5px 1px" height='180'> 
 
 <h2>GDZ Elektrik</h2>
-
-<img src='./Images/gdz-logo.jpg' style="float: left;margin:5px 20px 5px 1px" height='180'> 
 
 Gdz Elektrik, günlük yaşamın vazgeçilmezi, tarımın, ticaretin ve sanayinin itici gücü olan elektriği; güvenli, verimli, çevre ve insan odaklı hizmet anlayışı ve çağın gerekliliklerine uygun teknolojik sistemleri ile tüketicilere ulaştırmaktadır.
 
@@ -12,7 +12,7 @@ Gdz Elektrik, 2013 yılında attığı başlayan yolculuğunda bugün; İzmir ve
 1. [Giriş](#giriş)
 1. [Veri Seti Hk.](#veri-seti-hk)
 1. [Kullanılan Modeller](#kullanılan-modeller)
-1. [Modellerin Değerlendirilmesi](#model-değerlendirmesi)
+1. [Modellerin Değerlendirilmesi](#modellerin-değerlendirmesi)
 1. [Sonuç](#sonuç)
 
 <hr>
