@@ -12,7 +12,7 @@ Gdz Elektrik, 2013 yılında attığı başlayan yolculuğunda bugün; İzmir ve
 1. [Giriş](#giriş)
 1. [Veri Seti Hk.](#veri-seti-hk)
 1. [Kullanılan Modeller](#kullanılan-modeller)
-1. [Modellerin Değerlendirilmesi](#model-değerlendirmesi)
+1. [Modellerin Değerlendirilmesi](#modellerin-değerlendirmesi)
 1. [Sonuç](#sonuç)
 
 <hr>
