@@ -8,8 +8,7 @@ Buradan hareketle Hangi tarihlerdeki verilerin Manisa'daki dağıtıma ait oldu�
 
 ## Veri Kazıma Süreci Hk.
 
-Veri kazıma sürecinde internet siteleri:  
+Veri kazıma sürecinde verileri çektiğim internet sitesi:  
 * [World Weather Online](https://www.worldweatheronline.com/izmir-weather-history/izmir/tr.aspx)
-* [Playwright](https://playwright.dev/)
 
 Verileri kazımak için `playwright` kütüphanesini kullandım. Veri kazıma sürecinde kullandığım kodlara `../Web Scraping/weather-scraping.py` kısmından ulaşılabilir.
