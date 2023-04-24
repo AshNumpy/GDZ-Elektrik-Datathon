@@ -125,3 +125,6 @@ model.fit(train_X, y_train, epochs=20, batch_size=72, validation_data=(test_X, y
 
 ## Sonuç
 Yaptığımız model değerlendirmesi sonucunda, beş farklı modeli MAPE ve RMSE metrikleriyle değerlendirdik. Vanilla LSTM modelimiz en başarılı sonucu elde etti. MAPE değeri 0.04 ve RMSE değeri 0.02 olarak belirlendi. Diğer modeller ise XGBoost, AdaBoost, Random Forest ve Huber Regressor şeklinde sıralandı. Bu modellerin MAPE ve RMSE değerleri Vanilla LSTM modelinden daha yüksek çıktı. XGBoost modelimiz Vanilla LSTM'den hafif bir şekilde daha kötü performans sergiledi, ancak AdaBoost, Random Forest ve Huber Regressor modelleri önemli ölçüde daha kötü sonuçlar gösterdi. Sonuç olarak, bu model değerlendirmesi Vanilla LSTM modelinin zaman serileri için başarılı bir seçenek olduğunu gösterdi ve bu modelin diğer modellere göre daha iyi performans sergilediği görüldü.
+  
+  
+> Yarışmaya [BURADAN](https://www.kaggle.com/competitions/gdz-elektrik-datathon-2023/overview) ulaşılabilir. 
