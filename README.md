@@ -1,8 +1,8 @@
 <h1 align="center">Proje Raporu</h1>
-
-<h2>GDZ Elektrik</h2>
-
-<img src='./Images/gdz-logo.jpg' style="float: left;margin:5px 20px 5px 1px" height='180'> 
+ 
+<p align="center">
+  <img src='./Images/gdz-logo2.png' style="float: left;margin:5px 20px 5px 1px" height='100'>
+</p>
 
 Gdz Elektrik, günlük yaşamın vazgeçilmezi, tarımın, ticaretin ve sanayinin itici gücü olan elektriği; güvenli, verimli, çevre ve insan odaklı hizmet anlayışı ve çağın gerekliliklerine uygun teknolojik sistemleri ile tüketicilere ulaştırmaktadır.
 
