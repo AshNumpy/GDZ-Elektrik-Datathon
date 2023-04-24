@@ -116,7 +116,8 @@ model.fit(train_X, y_train, epochs=20, batch_size=72, validation_data=(test_X, y
 
 |Model|MAPE|RMSE|
 |:---|---:|--:|
-|Vanilla LSTM|0.04|108.87|
+|XGBoost - Vanilla LSTM|0.0290811|---|
+|Vanilla LSTM|0.04|0.02|
 |XGBoost|0.05|125.57|
 |AdaBoost|0.07|187.43|
 |Random Forest|0.07|188.38|
