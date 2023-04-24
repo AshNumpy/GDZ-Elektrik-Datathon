@@ -19,11 +19,15 @@ Gdz Elektrik, 2013 yılında attığı başlayan yolculuğunda bugün; İzmir ve
 
 ## Giriş
 
-Bu projede saatlik olarak dağıtılan enerji (MWh) değerinin zaman serisi olarak ele alınıp,  gelecek tahminlerinin yapılması amaçlanmıştır.
+Bu projede saatlik olarak dağıtılan enerji (MWh) değerinin zaman serisi olarak ele alınıp, gelecek tahminlerinin yapılması amaçlanmıştır.
 
 Bu amaca istinaden modele katkı sağlayacağı düşünülen her türlü halka açık veri veri kazıma ile elde edilip veri setine eklenmiştir.
 
 Tahminlerin yapıldığı modelleri karşılaştırmak ve en iyi performans gösteren modeli seçmek için, XGBoost, AdaBoost, RandomForest, Huber Regressor, RANSAC Regressor, TheilSenRegressor, Vanilla LSTM modelleri uygulandı. Model performansı MAPE ve RMSE değerleri ile ölçüldü. Ayrıca, test verisi ile grafiksel uyumuna da bakıldı. Sonuç olarak, Vanilla LSTM modeli en iyi performans gösteren model olarak seçildi.
+
+XGBoost ile beslenen bir tahmin algoritmasının çıktılarını tek başına en iyi performansı sergileyen Vanilla LSTM modeli ile birleştirilip submission yapıldı. Nihayetinde 2.90811 MAPE karar metriği ile en iyi model olarak seçildi.  
+
+Yarışmada ise seçilen yaklaşım 24/234 sırada yer aldı.
 
 Bu raporda, veri seti ve kullanılan modellerin detayları, model performansı ve sonuçlarının analizi sunulacaktır.
 
